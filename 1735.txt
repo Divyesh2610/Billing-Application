@@ -1,0 +1,25 @@
+		 Welcome
+=======================================
+ Bill Number : 1735
+ Customer Name : Divyesh
+ Phone Number : 9966992346
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Face wash		2		120
+ Hair gel		3		420
+ Rice		3		120
+ Dal		2		120
+ Sugar		1		60
+ Mazza		2		110
+ Frooty		1		50
+ Limca		3		150
+---------------------------------------
+ Tax type			amount
+---------------------------------------
+ Cosmatic Tax			Rs. 29.0
+ Grocery Tax			Rs. 15.0
+ Cold Drink Tax			Rs. 15.5
+ Total Bill : 			Rs. 1249.5
+---------------------------------------
